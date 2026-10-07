@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-    <h1>Bienvenidos a React</h1>
+    <h1>Bienvenidos a mi E-commerce</h1>
     </>
   )
 }
