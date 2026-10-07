@@ -1,16 +1,17 @@
-# React + Vite
+# Tienda Enzo Silvero
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## 📝 Descripción del Proyecto
+Este proyecto es un e-commerce en desarrollo dedicado a la venta de equipamiento de audio / beats / instrumentos. Es la estructura inicial desarrollada para el curso de React.
 
-Currently, two official plugins are available:
+## 🛠️ Tecnologías Utilizadas
+- React
+- Vite
+- JavaScript
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Instrucciones para instalar y ejecutar
+Para poder descargar y ejecutar este proyecto en tu computadora de forma local, seguí estos pasos:
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. Clonar este repositorio.
+2. Abrir la terminal en la carpeta del proyecto e instalar las dependencias ejecutando:
+   ```bash
+   npm install
